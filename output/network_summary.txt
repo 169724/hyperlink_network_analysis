@@ -1,0 +1,13 @@
+Podsumowanie analizy sieci hyperlinkowej
+==================================================
+Liczba adresów startowych: 1
+Liczba żądań HTTP: 43
+Liczba przeanalizowanych stron HTML: 30
+Liczba błędów pobierania: 4
+Liczba odkrytych węzłów: 410
+Liczba odkrytych krawędzi: 3160
+
+Liczba węzłów w grafie: 410
+Liczba krawędzi w grafie: 3160
+Liczba słabo spójnych składowych: 10
+Rozmiar największej słabo spójnej składowej: 401
